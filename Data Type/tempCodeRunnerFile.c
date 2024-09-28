@@ -1,0 +1,1 @@
+//deklarasi var. int a, b, c, d

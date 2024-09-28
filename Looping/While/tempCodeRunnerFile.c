@@ -1,0 +1,1 @@
+/proses untuk bilangan ke-.. terus bertambah saat looping
